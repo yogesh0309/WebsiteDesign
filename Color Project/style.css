@@ -1,0 +1,29 @@
+body {
+	background: #111111
+}
+
+
+h1,h2 {
+	color: white;
+}
+
+.square 
+{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%
+}
+
+#squareContainer {
+	margin: 0 auto;
+	width: 600px;
+}
+
+#display {
+	width: 50%;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+}
