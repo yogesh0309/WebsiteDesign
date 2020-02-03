@@ -2,4 +2,5 @@ This is the project for RGB color practice and game.
 The Program shows grid of 6 colors out of which you have to guess
 one RGB color given on top.
 
-If you guess correct Message will be shown
+If you guess correct Message will be shown as Correct and all grids color 
+would be changed.
